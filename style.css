@@ -1,0 +1,37 @@
+.light_f331, :root {
+	--ring-content-background-components: 40, 42, 54;
+	--ring-tag-background-components: 40, 42, 54;
+	--ring-popup-background-components: 40, 42, 54;
+	--ring-text-components: 248, 248, 242;
+	
+	--ring-disabled-background-components: 67, 71, 98;
+	--ring-disabled-components: 248, 248, 242;
+	--ring-border-disabled-components: 48, 51, 70;
+	
+	--ring-borders-components: 48, 51, 70;
+	
+	--ring-hover-background-components: 68, 71, 90;
+	
+	--ring-selected-background-components: 98, 114, 164;
+	
+	--ring-link-components: 139, 233, 253;
+	--ring-link-hover-components: 109, 203, 223;
+	--ring-link-hover-color: rgb(109, 203, 223);
+	
+	--ring-main-components: 189, 147, 249;
+	--ring-main-hover-components: 169, 127, 229;
+	--ring-button-primary-background-components: 149, 107, 209;
+	--ring-button-primary-border-components: 189, 147, 249;
+	
+	--ring-white-text-components: 40, 42, 54;
+	
+	--ring-secondary-components: 255, 121, 198;
+	
+	--ring-sidebar-background-components: 68, 71, 90;
+	
+	--ring-line-components: 98, 114, 164;
+}
+
+iframe :root {
+	--ring-link-hover-color: rgb(109, 203, 223) !important;
+}
